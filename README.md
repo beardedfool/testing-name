@@ -1,5 +1,8 @@
 # testing name
 
+##Testing the markup
 Can I <b>bold through html </b> or **markup**
 
-Testing the text of this readme
+### indenting
+Does *this* work?
+
